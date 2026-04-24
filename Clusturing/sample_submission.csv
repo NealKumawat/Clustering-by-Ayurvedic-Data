@@ -1,0 +1,368 @@
+Disease,cluster
+Acanthosis Nigricans,0
+Acidity,0
+Acne,0
+Acromegaly,0
+Acute Kidney Injury,0
+Addison's Disease,0
+Adrenal Insufficiency,0
+Alkaptonuria,0
+Allergies,0
+Alopecia,0
+Alzheimer's Disease,0
+Amebiasis,0
+Amyotrophic Lateral Sclerosis (ALS),0
+Anemia,0
+Angina,0
+Anxiety,0
+Anxiety Disorder,0
+Aortic Aneurysm,0
+Aphasia,0
+Argininemia,0
+Argininosuccinic Aciduria,0
+Arrhythmia,0
+Arthritis,0
+Ascariasis,0
+Asparagine Synthetase Deficiency,0
+Aspartylglucosaminuria,0
+Asthma,0
+Atherosclerosis,0
+Atopic Dermatitis,0
+"Autoimmune Diseases (e.g., Lupus)",0
+Autoimmune Hepatitis,0
+Autosomal Dominant Polycystic Kidney Disease,0
+Back Pain,0
+Bacterial Infections,0
+Barth Syndrome,0
+Bell's Palsy,0
+Bipolar Disorder,0
+Bladder Cancer,0
+Brain Tumors,0
+Bronchiectasis,0
+Brugada Syndrome,0
+Bubonic Plague,0
+Buruli Ulcer,0
+COPD (Chronic Obstructive Pulmonary Disease),0
+COVID-19,0
+Canavan Disease,0
+"Cancer (Breast Cancer, Lung Cancer, Prostate Cancer, etc.)",0
+Candidiasis,0
+Carbamoyl Phosphate Synthetase I Deficiency Disease,0
+Cardiomyopathy,0
+Carpal Tunnel Syndrome,0
+Celiac Disease,0
+Cerebral Palsy,0
+Cerebrotendinous Xanthomatosis,0
+Chagas Disease,0
+Chickenpox,0
+Chikungunya,0
+Chromoblastomycosis,0
+Chronic Fatigue Syndrome,0
+Chronic Kidney Disease (CKD),0
+Chronic Obstructive Pulmonary Disease (COPD),0
+Chronic Sinusitis,0
+Ciguatera Poisoning,0
+Cirrhosis,0
+Cleft Lip and Palate,0
+Clonorchiasis,0
+Coffin-Lowry Syndrome,0
+Cold,0
+Cold Sores,0
+Colorectal Cancer,0
+Common Cold,0
+Conjunctivitis,0
+Constipation,0
+Contact Dermatitis,0
+Coronary Artery Disease,0
+Costello Syndrome,0
+Cough,0
+Crigler-Najjar Syndrome,0
+Crimean-Congo Hemorrhagic Fever,0
+Crohn's Disease,0
+Crohn’s Disease,0
+Cryptosporidiosis,0
+Cushing's Syndrome,0
+Cystic Fibrosis,0
+Cysticercosis,0
+Cystinosis,0
+Cystitis,0
+Dandruff,0
+Dementia,0
+Dengue Fever,0
+Dengue Hemorrhagic Fever,0
+Dentinogenesis Imperfecta,0
+Depression,0
+Desbuquois Dysplasia,0
+Diabetes,0
+Diabetes Mellitus,0
+Diabetes Mellitus Type 1 and Type 2,0
+Diabetic Neuropathy,0
+Diabetic Retinopathy,0
+Digestive Disorders,0
+Dihydropyrimidine Dehydrogenase Deficiency,0
+Diphtheria,0
+Diverticulitis,0
+Down Syndrome,0
+Dracunculiasis,0
+Duchenne Muscular Dystrophy,0
+Dyggve-Melchior-Clausen Syndrome,0
+Dyslipidemia,0
+Ear Infections,0
+Ebola,0
+Ebola Virus,0
+Echinococcosis,0
+Eczema (Atopic Dermatitis),0
+Emphysema,0
+Endometriosis,0
+Enterobiasis,0
+Epilepsy,0
+Erectile Dysfunction,0
+Fascioliasis,0
+Fever,0
+Fibromyalgia,0
+Filariasis,0
+Fragile X Syndrome,0
+Gallbladder Disease,0
+Gallstones,0
+Gastroenteritis,0
+Gastroesophageal Reflux Disease (GERD),0
+Giardiasis,0
+Gingivitis,0
+Glaucoma,0
+Glomerulonephritis,0
+Goiter,0
+Gout,0
+Graves Disease,0
+Graves' Disease,0
+Guillain-Barre Syndrome,0
+Guinea Worm Disease,0
+HIV/AIDS,0
+Hair Loss,0
+"Hand, Foot, and Mouth Disease",0
+Hantavirus Pulmonary Syndrome,0
+Hashimoto's Thyroiditis,0
+Heart Attack (Myocardial Infarction),0
+Heart Disease,0
+Heart Failure,0
+Hemochromatosis,0
+Hemophilia,0
+Hendra Virus Infection,0
+Hepatitis,0
+"Hepatitis (A, B, C)",0
+Hepatitis A,0
+Hepatitis B,0
+Hepatitis C,0
+Herpes Simplex Virus (HSV),0
+Hidradenitis Suppurativa,0
+Histoplasmosis,0
+Hodgkin's Lymphoma,0
+Hodgkin’s Lymphoma,0
+Hookworm Infection,0
+Huntington's Disease,0
+Hydronephrosis,0
+Hypercholesterolemia,0
+Hyperlipidemia,0
+Hyperparathyroidism,0
+Hypertension,0
+Hyperthyroidism,0
+Hypoglycemia,0
+Hypothyroidism,0
+Indigestion,0
+Inflammation,0
+Inflammatory Bowel Disease (IBD),0
+Influenza,0
+Insomnia,0
+Irritable Bowel Syndrome (IBS),0
+Joint Pain,0
+Kala-azar,0
+Kawasaki Disease,0
+Kearns-Sayre Syndrome,0
+Kidney Cancer,0
+Kidney Stones,0
+Kleine-Levin Syndrome,0
+Klinefelter Syndrome,0
+Krabbe Disease,0
+Kyasanur Forest Disease,0
+Langerhans Cell Histiocytosis,0
+Larsen Syndrome,0
+Lassa Fever,0
+Leigh Syndrome,0
+Leishmaniasis,0
+Leprosy,0
+Leptospirosis,0
+Lesch-Nyhan Syndrome,0
+Leukemia,0
+Leukodystrophy,0
+Liddle Syndrome,0
+Lipid Storage Disease,0
+Liver Cancer,0
+Liver Cirrhosis,0
+Liver Disorders,0
+Loeys-Dietz Syndrome,0
+Loiasis,0
+Lowe Syndrome,0
+Lung Cancer,0
+Lupus,0
+Lyme Disease,0
+Lymphadenopathy,0
+Lymphatic Filariasis,0
+Lymphoma,0
+Maffucci Syndrome,0
+Malaria,0
+Mansonelliasis,0
+Maple Syrup Urine Disease,0
+Marburg,0
+Marburg Virus Disease,0
+Marfan Syndrome,0
+McCune-Albright Syndrome,0
+Measles,0
+Melanoma,0
+Melioidosis,0
+Meniere's Disease,0
+Meningitis,0
+Menkes Disease,0
+Menopause,0
+Menstrual Disorders,0
+Mental Health Disorders,0
+Mental Stress,0
+Metabolic Syndrome,0
+Migraine,0
+Miller-Dieker Syndrome,0
+Mitochondrial Myopathy,0
+Monkeypox,0
+Mowat-Wilson Syndrome,0
+Mucolipidosis,0
+Mucopolysaccharidosis,0
+Multiple Myeloma,0
+Multiple Sclerosis,0
+Multiple Sulfatase Deficiency,0
+Muscular Dystrophy,0
+Myasthenia Gravis,0
+Mycetoma,0
+Myocardial Infarction (Heart Attack),0
+Myotonia Congenita,0
+Naegleria Infection,0
+Nasal Polyps,0
+Nephrotic Syndrome,0
+Neurofibromatosis,0
+Neurotoxocariasis,0
+Niemann-Pick Disease,0
+Nipah Virus Infection,0
+Noonan Syndrome,0
+Obesity,0
+Onchocerciasis (River Blindness),0
+Opistorchiasis,0
+Osteoarthritis,0
+Osteogenesis Imperfecta,0
+Osteopetrosis,0
+Osteoporosis,0
+Ovarian Cancer,0
+Pancreatic Cancer,0
+Pancreatitis,0
+Paracoccidioidomycosis,0
+Paragonimiasis,0
+Parkinson's Disease,0
+Pelvic Floor Disorders,0
+Peptic Ulcers,0
+Peripheral Artery Disease,0
+Peutz-Jeghers Syndrome,0
+Pfeiffer Syndrome,0
+Phenylketonuria (PKU),0
+Pinta,0
+Pitt-Hopkins Syndrome,0
+Pituitary Tumors,0
+Pneumoconiosis,0
+Pneumocystis Pneumonia,0
+Pneumonia,0
+Pneumonic Plague,0
+Polio,0
+Polycystic Kidney Disease,0
+Polycystic Ovary Syndrome (PCOS),0
+Polycythemia Vera,0
+Porphyria,0
+Post-Traumatic Stress Disorder (PTSD),0
+Prader-Willi Syndrome,0
+Primary Amebic Meningoencephalitis,0
+Primary Ciliary Dyskinesia,0
+Prostate Cancer,0
+Prostate Enlargement (Benign Prostatic Hyperplasia),0
+Psoriasis,0
+Psoriatic Arthritis,0
+Pulmonary Hypertension,0
+Q Fever,0
+Rabies,0
+Raynaud's Disease,0
+Relapsing Fever,0
+Renal Hypertension,0
+Respiratory Issues,0
+Rett Syndrome,0
+Rheumatic Heart Disease,0
+Rheumatoid Arthritis,0
+Rickettsial Diseases,0
+Rift Valley Fever,0
+Rocky Mountain Spotted Fever,0
+Rosacea,0
+Schistosomiasis,0
+Sciatica,0
+Scoliosis,0
+Seborrheic Dermatitis,0
+Septicemic Plague,0
+Sexual Dysfunction,0
+Sickle Cell Anemia,0
+Sinusitis,0
+Sjogren's Syndrome,0
+Skin Allergy,0
+Skin Cancer (Melanoma),0
+Skin Diseases,0
+Skin Infections,0
+"Skin Infections (Bacterial, Fungal, Viral)",0
+Skin Rash,0
+Sleep Apnea,0
+Sleeping Sickness (Trypanosomiasis),0
+Sparganosis,0
+Spinal Cord Injury,0
+Spondylosis,0
+Stomach Cancer,0
+Strep Throat,0
+Stress,0
+Stroke,0
+Strongyloidiasis,0
+Systemic Lupus Erythematosus (SLE),0
+Talaromycosis,0
+Tay-Sachs Disease,0
+Tendinitis,0
+Testicular Cancer,0
+Tetanus,0
+Thalassemia,0
+Thyroid Cancer,0
+Thyroid Disorders,0
+Tinnitus,0
+Toxocariasis,0
+Toxoplasmosis,0
+Trachoma,0
+Trichinellosis,0
+Trichuriasis,0
+Tuberculosis,0
+Tularemia,0
+Tungiasis,0
+Type 1 Diabetes,0
+Typhus,0
+Ulcerative Colitis,0
+Urinary Tract Infection (UTI),0
+Urinary Tract Infections (UTIs),0
+Varicose Veins,0
+Viral Infections,0
+Vitiligo,0
+Weight Gain,0
+Weight Loss,0
+West Nile Virus,0
+Whipple's Disease,0
+Wilson's Disease,0
+Wilson’s Disease,0
+Worm Infections,0
+Yaws,0
+Yeast Infections,0
+Yellow Fever,0
+Zika Virus,0
+Zoonotic Infections,0
+Zoonotic Malaria,0
